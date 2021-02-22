@@ -88,7 +88,7 @@ soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:20314
 pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 # rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Hier komt de omschrijving"
+description = "Unpatched is een podcast over security en privacy. Het doel van de podcast is het begrijpbaar maken van lastige onderwerpen in relatie tot security en privacy"
 media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
 disqusShortname = ""
   [params.feed]
