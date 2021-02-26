@@ -25,10 +25,10 @@ buildFuture = true
     identifier = "Over"
     url = "/over"
 
-[[Menu.Main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "/contact"
+#[[Menu.Main]]
+#    name = "Contact"
+#    identifier = "contact"
+#    url = "/contact"
 
 [[Menu.Main]]
     name = "Gastheer"
