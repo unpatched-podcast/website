@@ -1,6 +1,6 @@
 baseURL = "https://www.unpatched.nl/"
 languageCode = "NL"
-title = "Unpatched - dé security en privacy podcast"
+title = "Unpatched - een podcast over security en privacy"
 theme = "castanet"
 #themesDir = "../.."
 paginate = "9"
