@@ -2,3 +2,5 @@
 label: Contact
 hide_body: false
 fields: []
+pages:
+- content/contact.md
