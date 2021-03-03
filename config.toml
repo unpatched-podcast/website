@@ -69,7 +69,7 @@ buildFuture = true
 [params]
 mainSections = ["episode"]
 episode_number_style  = "brackets"
-episode_number_prefix = "CWC"
+episode_number_prefix = ""
 site_theme = "blue"
 # site_layout = "grid"
 site_layout = "row"
@@ -129,6 +129,7 @@ disqusShortname = ""
     #facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
     twitter = "Unpatched15"
     twitter_domain = "unpatched.nl" # This domain shows in twitter cards as "View on `twitter_domain`"
+    telegram = "ib-lM8IRLzpmZDlk"
     #googleplus = "ArrestedDevOps"
     #pinterest = "nozzleio"
     #instagram = "nozzleio"
