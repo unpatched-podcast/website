@@ -92,17 +92,17 @@ description = "Unpatched is een podcast over security en privacy. Het doel van d
 media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
 disqusShortname = ""
   [params.feed]
-    copyright = "Copyright 2020 Matt Stratton" #do not use markdown in this field; it is used in the feed
-    itunes_subtitle = "The best podcast ever" #no markdown or HTML
-    itunes_author = "Matt Stratton" #no markdown or HTML
-    itunes_summary = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about podcasting from the most inspiring experts to ever show up on the whole internet." # Limited to 4000 characters or less, plain text, no HTML
-    itunes_owner_name = "Matt Stratton"
-    itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
-    itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
+    copyright = "Copyright 2021 Ferry Stelte" #do not use markdown in this field; it is used in the feed
+    itunes_subtitle = "Een podcast over security en privacy" #no markdown or HTML
+    itunes_author = "Ferry Stelte" #no markdown or HTML
+    itunes_summary = "Unpatched is een podcast over security en privacy. Het doel van de podcast is het begrijpbaar maken van lastige onderwerpen in relatie tot security en privacy." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "Ferry Stelte"
+    itunes_owner_email = "fstelte@stelte.nl" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
+    itunes_image = "" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
-    itunes_first_sub_category = "Software How-To"
+    itunes_first_sub_category = "Security"
     itunes_second_sub_category = "Tech News"
-    language = "en-us"
+    language = "nl-nl"
 
   [params.realfavicongenerator] # https://realfavicongenerator.net/
     mask_icon_color="#5bbad5"
@@ -141,25 +141,25 @@ disqusShortname = ""
       name	= "Ferry Stelte"
       thumbnail = "img/host/fstelte.png"
       bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
-      [params.authors.Matt.social]
-        github = "mattstratton"
-        facebook = "matt.stratton"
-        twitter = ""
-        linkedin = "mattstratton"
-        homepage = "https://www.mattstratton.io"
-        pinterest = "mattstratton"
-        instagram = "instagram"
-        youtube = "mattstratton"
-        twitch = "mattstratton"
+      [params.authors.ferry.social]
+        github = "fstelte"
+        #facebook = "matt.stratton"
+        twitter = "EpiphanyNL"
+        linkedin = "fstelte"
+        homepage = "https://www.unpatched.nl"
+        #pinterest = "mattstratton"
+        #instagram = "instagram"
+        #youtube = "mattstratton"
+        #twitch = "mattstratton"
 
 
-    [params.links]
-      [params.links.ado]
-        name = "Arrested DevOps"
-        url = "https://www.arresteddevops.com"
-      [params.links.ffs]
-        name = "Food Fight Show"
-        url = "https://foodfightshow.org"
-      [params.links.sdt]
-        name = "Software Defined Talk"
-        url = "https://cote.io/podcasts/sdt/"
+    #[params.links]
+    #  [params.links.ado]
+    #    name = "Arrested DevOps"
+    #    url = "https://www.arresteddevops.com"
+    #  [params.links.ffs]
+    #    name = "Food Fight Show"
+    #    url = "https://foodfightshow.org"
+    #  [params.links.sdt]
+    #    name = "Software Defined Talk"
+    #    url = "https://cote.io/podcasts/sdt/"
