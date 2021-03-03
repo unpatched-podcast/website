@@ -17,4 +17,4 @@ title = "S01E00 - Prequal"
 
 +++
 
-Omdat ik in [S08E20 van Met Nerds om Tafel] ("https://www.metnerdsomtafel.nl/podcast/s08e20-cybersecurity-consultancy-met-ferry-stelte-epiphany.html") zat, ben ik gaan nadenken over wat daar te sprake is gekomen. Ik realiseerde mij dat ik mensen die wellicht niet heel erg thuis zijn in het security vak wellicht kan helpen beter te begrijpen waarom wij "security professionals" nogwel eens zo moeilijk willen doen over Risico's, bedreigingen, lekken, privacy en wat nog meer. In deze voor aflevering stel ik mij zelf en de podcast voor.
+Omdat ik in [S08E20 van Met Nerds om Tafel]("https://www.metnerdsomtafel.nl/podcast/s08e20-cybersecurity-consultancy-met-ferry-stelte-epiphany.html") zat, ben ik gaan nadenken over wat daar te sprake is gekomen. Ik realiseerde mij dat ik mensen die wellicht niet heel erg thuis zijn in het security vak wellicht kan helpen beter te begrijpen waarom wij "security professionals" nogwel eens zo moeilijk willen doen over Risico's, bedreigingen, lekken, privacy en wat nog meer. In deze voor aflevering stel ik mij zelf en de podcast voor.
