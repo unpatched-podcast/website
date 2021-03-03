@@ -80,6 +80,7 @@
         <li>
           <a class = "social-links" href="https://twitch.tv/{{ .Site.Params.social.twitch }}"><i class="fab fa-twitch fa-2x"></i></a>
         </li>
+        {{ end }}
         {{ if (isset .Site.Params.social "telegram" ) }}
         <li>
           <a class = "social-links" href="https:/t.me/joinchat/{{ .Site.Params.social.telegram }}"><i class="fab fa-telegram fa-2x"></i></a>
