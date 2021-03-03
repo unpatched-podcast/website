@@ -32,8 +32,8 @@ buildFuture = true
 
 [[Menu.Main]]
     name = "Gastheer"
-    identifier = "host"
-    url = "/gastheer"
+    identifier = "hosts"
+    url = "/host"
 
 #[[Menu.Main]]
 #    name = "Guests"
