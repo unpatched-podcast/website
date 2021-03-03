@@ -12,4 +12,4 @@ Thumbnail = "img/host/fstelte.png"
 #YouTube = "johndoe"
 #Twitch = "johndoe"
 +++
-In het dagelijks leven ben ik Cybersecurity Consultant en helpt hij zijn klanten om de beveiliging van hun organisatie te verbeteren. Mijn motivatie om dit werk te doen is intrisiek. 
+In het dagelijks leven ben ik Cybersecurity Consultant waarbij ik mijn klanten help om de beveiliging van hun organisatie te verbeteren. Mijn motivatie om dit werk te doen is intrisiek. 
