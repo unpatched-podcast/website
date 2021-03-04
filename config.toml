@@ -85,7 +85,7 @@ spotify_subscribe = "https://open.spotify.com/show/5F3s2a3ZKWlkyYnnkyglrC"
 #google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYXJyZXN0ZWRkZXZvcHMuY29tL2VwaXNvZGUvaW5kZXgueG1s"
 #stitcher_subscribe = "http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops"
 #soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
-pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+pocketcasts_subscribe = "https://pca.st/ycgqjsr2"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 # rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Unpatched is een podcast over security en privacy. Het doel van de podcast is het begrijpbaar maken van lastige onderwerpen in relatie tot security en privacy"
@@ -112,8 +112,8 @@ disqusShortname = ""
   [params.podlove] # https://subscribe-button.podlove.org
     subscribe_title = "Unpatched"              # fallback: site title from above
     subscribe_subtitle = "Een podcast over security en privacy"           # fallback: ""
-    subscribe_description = "https://anchor.fm/ferry96"        # fallback: ""
-    subscribe_cover = "img/logo.jpg"  # fallback: ""
+    subscribe_description = ""        # fallback: ""
+    subscribe_cover = "https://anchor.fm/s/4d2f7af4/podcast/rss"  # fallback: ""
     subscribe_color = "#585e6c"       # fallback: ""
     subscribe_size = "medium"         # options: small, medium, big
     subscribe_format = "rectangle"    # options: rectangle, square, cover
