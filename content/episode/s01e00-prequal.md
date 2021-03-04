@@ -12,7 +12,7 @@ images = ["http://www.google.comimg/episode/default-social.jpg"]
 news_keywords = []
 podcast_bytes = ""
 podcast_duration = "02:38"
-podcast_file = "https://anchor.fm/ferry96/episodes/S01E00---Prequal-ergj20"
+podcast_file = "https://raw.githubusercontent.com/unpatched-podcast/website/main/content/episode/S01E00-prequal.mp3"
 title = "S01E00 - Prequal"
 
 +++
