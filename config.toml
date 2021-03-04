@@ -97,7 +97,7 @@ disqusShortname = ""
     itunes_author = "Ferry Stelte" #no markdown or HTML
     itunes_summary = "Unpatched is een podcast over security en privacy. Het doel van de podcast is het begrijpbaar maken van lastige onderwerpen in relatie tot security en privacy." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Ferry Stelte"
-    itunes_owner_email = "fstelte@stelte.nl" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
+    itunes_owner_email = "ferry@unpatched.nl" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
     itunes_image = "" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
     itunes_first_sub_category = "Security"
@@ -109,18 +109,18 @@ disqusShortname = ""
     msapplication_tilecolor="#2b5797"
     theme_color="#ffffff"
 
-  [params.podlove] # https://subscribe-button.podlove.org
-    subscribe_title = "Unpatched"              # fallback: site title from above
-    subscribe_subtitle = "Een podcast over security en privacy"           # fallback: ""
-    subscribe_description = ""        # fallback: ""
-    subscribe_cover = "https://anchor.fm/s/4d2f7af4/podcast/rss"  # fallback: ""
-    subscribe_color = "#585e6c"       # fallback: ""
-    subscribe_size = "medium"         # options: small, medium, big
-    subscribe_format = "rectangle"    # options: rectangle, square, cover
-    subscribe_style = "filled"        # options: filled, outline, frameless
-    subscribe_language = "nl"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
-    subscribe_feed_type = "audio"     # options: audio, video
-    subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
+  #[params.podlove] # https://subscribe-button.podlove.org
+   # subscribe_title = "Unpatched"              # fallback: site title from above
+   # subscribe_subtitle = "Een podcast over security en privacy"           # fallback: ""
+   # subscribe_description = ""        # fallback: ""
+   # subscribe_cover = "https://anchor.fm/s/4d2f7af4/podcast/rss"  # fallback: ""
+   # subscribe_color = "#585e6c"       # fallback: ""
+   # subscribe_size = "medium"         # options: small, medium, big
+   # subscribe_format = "rectangle"    # options: rectangle, square, cover
+   # subscribe_style = "filled"        # options: filled, outline, frameless
+   # subscribe_language = "nl"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
+   # subscribe_feed_type = "audio"     # options: audio, video
+   # subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
 
   [params.social]
     github = "unpatched-podcast"
