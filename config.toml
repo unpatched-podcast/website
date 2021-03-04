@@ -109,18 +109,19 @@ disqusShortname = ""
     msapplication_tilecolor="#2b5797"
     theme_color="#ffffff"
 
-  #[params.podlove] # https://subscribe-button.podlove.org
-   # subscribe_title = "Unpatched"              # fallback: site title from above
-   # subscribe_subtitle = "Een podcast over security en privacy"           # fallback: ""
-   # subscribe_description = ""        # fallback: ""
-   # subscribe_cover = "https://anchor.fm/s/4d2f7af4/podcast/rss"  # fallback: ""
-   # subscribe_color = "#585e6c"       # fallback: ""
-   # subscribe_size = "medium"         # options: small, medium, big
-   # subscribe_format = "rectangle"    # options: rectangle, square, cover
-   # subscribe_style = "filled"        # options: filled, outline, frameless
-   # subscribe_language = "nl"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
-   # subscribe_feed_type = "audio"     # options: audio, video
-   # subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
+  [params.podlove] # https://subscribe-button.podlove.org
+    subscribe_title = "Unpatched"              # fallback: site title from above
+    subscribe_subtitle = "Een podcast over security en privacy"           # fallback: ""
+    subscribe_description = ""        # fallback: ""
+    subscribe_cover = "https://anchor.fm/s/4d2f7af4/podcast/rss"  # fallback: ""
+    subscribe_color = "#585e6c"       # fallback: ""
+    subscribe_size = "medium"         # options: small, medium, big
+    subscribe_format = "rectangle"    # options: rectangle, square, cover
+    subscribe_style = "filled"        # options: filled, outline, frameless
+    subscribe_language = "nl"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
+    subscribe_feed_url= "https://anchor.fm/s/4d2f7af4/podcast/rss"
+    subscribe_feed_type = "audio"     # options: audio, video
+    subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
 
   [params.social]
     github = "unpatched-podcast"
