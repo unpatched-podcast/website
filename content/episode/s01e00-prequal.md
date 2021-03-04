@@ -11,7 +11,7 @@ hosts = ["fstelte"]
 images = ["http://www.google.comimg/episode/default-social.jpg"]
 news_keywords = []
 podcast_duration = "02:38"
-podcast_file = "https://anchor.fm/ferry96/episodes/S01E00---Prequal-ergj20"
+podcast_file = "S01E00-prequal.mp3"
 podcast_bytes = ""
 title = "S01E00 - Prequal"
 
